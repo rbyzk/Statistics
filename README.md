@@ -29,7 +29,7 @@ The goal of this repository is to share practical examples, detailed notes, and 
 To use this repository on your local machine:
 
 ```bash
-git clone https://github.com/rbyzk/statistics-lecture-notes.git
+git clone [https://github.com/rbyzk/statistics-lecture-notes.git](https://github.com/rbyzk/Statistics.git)
 cd statistics-lecture-notes
 ```
 
