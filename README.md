@@ -29,8 +29,6 @@ The goal of this repository is to share practical examples, detailed notes, and 
 To use this repository on your local machine:
 
 ```bash
-Kopyala
-Düzenle
 git clone https://github.com/rbyzk/statistics-lecture-notes.git
 cd statistics-lecture-notes
 ```
