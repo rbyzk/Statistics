@@ -33,8 +33,10 @@ Explore the folders and notebooks for statistical walkthroughs. Each file is ann
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to add tutorials, fix typos, or share use cases, feel free to fork this repository and submit a pull request.
 
+
 ## 👩‍💻 About Me
 Hi, I'm Beyza Küçük, passionate about statistics, data science, and turning data into meaningful insights. I create content that makes complex concepts more accessible for learners at all levels.
+
 
 ## 🌐 Let's connect and grow together in data:
 
@@ -45,6 +47,7 @@ Hi, I'm Beyza Küçük, passionate about statistics, data science, and turning d
 ✨ If you find this repository helpful, please give it a ⭐ and share with others who might benefit!
 
 Keep learning and coding! 🚀
+---
 
 ## 📜 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
