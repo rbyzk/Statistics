@@ -38,9 +38,9 @@ Hi, I'm Beyza Küçük, passionate about statistics, data science, and turning d
 
 ## 🌐 Let's connect and grow together in data:
 
-**GitHub** [github.com/rbyzk]((https://github.com/rbyzk )
+**GitHub** [https://github.com/rbyzk]
 
-**Kaggle** [<!-- Replace if applicable -->](https://www.kaggle.com/beyzakucuk)
+**Kaggle** [https://www.kaggle.com/beyzakucuk] 
 
 ✨ If you find this repository helpful, please give it a ⭐ and share with others who might benefit!
 
