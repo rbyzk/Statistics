@@ -4,17 +4,12 @@ This repository contains various statistical analyses, examples, and lecture-sty
 
 ## 📁 Table of Contents
 
-- Overview
-
-- Contents
-
-- Usage
-
-- Contributing
-
-- About Me
-
-- License
+- [Overview](#overview)
+- [Contents](#contents)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [About Me](#about-me)
+- [License](#license)
 
 ## 📌 Overview
 The goal of this repository is to share practical examples, detailed notes, and tutorials on a wide range of statistical concepts—from basic descriptive statistics to advanced inferential techniques. Ideal for students, data enthusiasts, and aspiring data scientists.
@@ -28,10 +23,10 @@ The goal of this repository is to share practical examples, detailed notes, and 
 ## ⚙️ Usage
 To use this repository on your local machine:
 
-```bash
-git clone https://github.com/rbyzk/Statistics.git
-cd statistics-lecture-notes
-```
+   ```bash
+   git clone https://github.com/rbyzk/Statistics.git
+   cd statistics-lecture-notes
+   ```
 
 Explore the folders and notebooks for statistical walkthroughs. Each file is annotated with explanations and instructions.
 
