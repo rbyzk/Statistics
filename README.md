@@ -25,7 +25,6 @@ To use this repository on your local machine:
 
    ```bash
    git clone https://github.com/rbyzk/Statistics.git
-   cd statistics-lecture-notes
    ```
 
 Explore the folders and notebooks for statistical walkthroughs. Each file is annotated with explanations and instructions.
