@@ -25,7 +25,6 @@ To use this repository on your local machine:
 
    ```bash
    git clone https://github.com/rbyzk/Statistics.git
-   cd statistics-lecture-notes
    ```
 
 Explore the folders and notebooks for statistical walkthroughs. Each file is annotated with explanations and instructions.
@@ -35,8 +34,7 @@ Contributions are welcome! If you'd like to add tutorials, fix typos, or share u
 
 
 ## 👩‍💻 About Me
-Hi, I'm Beyza Küçük, passionate about statistics, data science, and turning data into meaningful insights. I create content that makes complex concepts more accessible for learners at all levels.
-
+I'm Beyza Küçük — a Data Scientist & Data Analyst, passionate about building ML/DL solutions that are interpretable, effective, and impactful.
 
 ## 🌐 Let's connect and grow together in data:
 
@@ -50,6 +48,5 @@ Keep learning and coding! 🚀
 ---
 
 ## 📜 License
-
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
